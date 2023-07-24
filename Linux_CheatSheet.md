@@ -411,3 +411,6 @@ Linux/Unix:
 		
 	#Set keyboard input
 		localectl set-keymap <language region>
+
+	#Gives help information on a command
+		man
